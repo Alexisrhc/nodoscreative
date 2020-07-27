@@ -720,7 +720,7 @@
                                                 </div>
                                                 <div class="intro_layer" data-animation="fadeIn">
                                                     <h2 class="text-uppercase intro_featured_word">
-                                                        Marketing
+                                                        ALEXISRHC
                                                     </h2>
                                                 </div>
                                                 <div class="intro_layer" data-animation="pullDown">
